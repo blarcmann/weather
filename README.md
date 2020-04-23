@@ -4,5 +4,5 @@ weather app with react-native
 
 ### run>>
 
-yarn install
+yarn install<br/>
 yarn start
