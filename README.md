@@ -1,3 +1,6 @@
 # weather
 
-Little weather app with react-native
+weather app with react-native
+###run>>
+yarn install
+yarn start
